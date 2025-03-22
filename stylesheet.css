@@ -20,6 +20,7 @@ header .headline{
   list-style: none;
   display: inline-block;
   margin: 0 20px;
+  font-color:white;
 }
 
 a { 
@@ -38,5 +39,5 @@ header{
   width: 100%;
   padding:15px 0;
   background-color: #337079;
-  color:white;
+  font-color:white;
 }
