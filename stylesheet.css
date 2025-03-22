@@ -25,3 +25,7 @@ header .headline{
   display: inline-block;
   margin: 0 20px;
 }
+
+a { 
+  color:#0000FF; text-decoration:none;
+}
