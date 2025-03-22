@@ -14,6 +14,7 @@ header .headline{
     font-size: 30px;
     font-color:white;
     margin-left: 100px;
+    font-family:"ekifont"
 }
 .nav-list{
     line-height: 100px;
@@ -29,4 +30,11 @@ header .headline{
 
 a { 
   text-decoration:none;
+}
+
+
+@font-face{
+  font-family:"ekifont";
+  src: url("KikaiChokokuJIS-Md.otf") format("opentype");
+  font-display: swap;
 }
