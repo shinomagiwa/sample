@@ -8,7 +8,7 @@ header .headline{
     font-size: 30px;
     font-color:white;
     margin-left: 100px;
-    font-family:"ekifont";
+    font-family:ekifont,sans-serif;
 }
 .nav-list{
     line-height: 100px;
