@@ -30,7 +30,7 @@ a {
 
 
 @font-face{
-  font-family:"ekifont";
+  font-family:ekifont;
   src: url("KikaiChokokuJIS-Md.otf") format(‘opentype’);
   font-display: swap;
 }
@@ -40,4 +40,5 @@ header{
   padding:15px 0;
   background-color: #337079;
   font-color:white;
+  font-family:ekifont,sans-serif;
 }
